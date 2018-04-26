@@ -101,3 +101,5 @@ friends: [
         href: "https://motchallenge.net/results/MOT17/"
     }
 ]
+
+theme: jekyll-theme-cayman
